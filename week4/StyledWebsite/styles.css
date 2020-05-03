@@ -1,0 +1,78 @@
+body {
+    background-color: lightgrey;
+}
+
+.header {
+    text-align: center;
+    font-family: 'Aclonica', sans-serif;
+}
+
+.nav {
+    text-align: center;
+    font-family: 'Lateef', cursive;
+}
+
+.contact {
+    text-transform: uppercase;
+    margin-right: 7px;
+}
+
+.event {
+    text-transform: uppercase;
+    margin-right: 7px;
+}
+
+.blog {
+    text-transform: uppercase;
+    margin-right: 7px;
+}
+
+.catalog{
+    text-transform: uppercase;
+}
+
+.recent {
+    font-family: 'Lateef', cursive;
+    text-size-adjust: 80px;
+    margin-left: 45px;
+}
+
+.post {
+    text-align: center;
+    float: left;
+    font-family: 'Lateef', cursive;
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-style: dashed;
+
+}
+
+.bodytext {
+    text-align: left;
+}
+
+.date {
+    position: relative;
+}
+
+.image {
+    height: 220px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin:0 auto;
+}
+
+.table {
+    
+}
+
+.far {
+    position: absolute;
+    margin-left: 22px;
+}
+
+    
